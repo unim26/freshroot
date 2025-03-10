@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Carrot",
+    "tagline": "Crunchy and Sweet Delight",
+    "description": "A vibrant orange root vegetable rich in beta-carotene, supporting eye health and immunity.",
+    "gradient_colors": ["0xFFFF9800", "0xFFFFC107"],
+    "nutrition": { "calories": 41, "carbs": 9.6, "fiber": 2.8, "protein": 0.9 }
+  },
+  {
+    "name": "Broccoli",
+    "tagline": "The Green Superfood",
+    "description": "A nutrient-dense vegetable packed with antioxidants, fiber, and vitamins C and K.",
+    "gradient_colors": ["0xFF4CAF50", "0xFF8BC34A"],
+    "nutrition": { "calories": 55, "carbs": 11, "fiber": 2.6, "protein": 3.3 }
+  },
+  {
+    "name": "Spinach",
+    "tagline": "Powerhouse of Iron",
+    "description": "A leafy green full of iron, folate, and vitamins, boosting energy and blood health.",
+    "gradient_colors": ["0xFF2E7D32", "0xFF81C784"],
+    "nutrition": { "calories": 23, "carbs": 3.6, "fiber": 2.2, "protein": 2.9 }
+  },
+  {
+    "name": "Tomato",
+    "tagline": "Juicy Red Goodness",
+    "description": "A versatile fruit-vegetable rich in lycopene, promoting heart and skin health.",
+    "gradient_colors": ["0xFFD32F2F", "0xFFF44336"],
+    "nutrition": { "calories": 18, "carbs": 3.9, "fiber": 1.2, "protein": 0.9 }
+  },
+  {
+    "name": "Potato",
+    "tagline": "Energy Booster",
+    "description": "A starchy vegetable packed with potassium and fiber, fueling the body with energy.",
+    "gradient_colors": ["0xFFD7CCC8", "0xFFA1887F"],
+    "nutrition": { "calories": 77, "carbs": 17, "fiber": 2.2, "protein": 2 }
+  },
+  {
+    "name": "Onion",
+    "tagline": "Flavor Enhancer",
+    "description": "A pungent vegetable loaded with antioxidants and sulfur compounds, supporting heart health.",
+    "gradient_colors": ["0xFF9E9E9E", "0xFFD7CCC8"],
+    "nutrition": { "calories": 40, "carbs": 9.3, "fiber": 1.7, "protein": 1.1 }
+  },
+  {
+    "name": "Bell Pepper",
+    "tagline": "A Splash of Color",
+    "description": "A colorful vegetable rich in vitamin C and antioxidants, boosting immunity.",
+    "gradient_colors": ["0xFFE53935", "0xFFFFEB3B"],
+    "nutrition": { "calories": 31, "carbs": 6, "fiber": 2.1, "protein": 1 }
+  },
+  {
+    "name": "Cucumber",
+    "tagline": "Cool and Hydrating",
+    "description": "A refreshing, low-calorie vegetable with high water content, keeping you hydrated.",
+    "gradient_colors": ["0xFF43A047", "0xFFC8E6C9"],
+    "nutrition": { "calories": 16, "carbs": 3.6, "fiber": 0.5, "protein": 0.7 }
+  },
+  {
+    "name": "Cauliflower",
+    "tagline": "White Nutrient Bomb",
+    "description": "A cruciferous vegetable packed with fiber, vitamins, and cancer-fighting compounds.",
+    "gradient_colors": ["0xFFF5F5F5", "0xFFE0E0E0"],
+    "nutrition": { "calories": 25, "carbs": 5, "fiber": 2, "protein": 2 }
+  },
+  {
+    "name": "Eggplant",
+    "tagline": "Purple Powerhouse",
+    "description": "A fiber-rich vegetable with antioxidants that promote heart and brain health.",
+    "gradient_colors": ["0xFF6A1B9A", "0xFFBA68C8"],
+    "nutrition": { "calories": 25, "carbs": 5.9, "fiber": 3, "protein": 1 }
+  },
+  {
+    "name": "Lettuce",
+    "tagline": "Leafy Freshness",
+    "description": "A crunchy green vegetable with vitamins A and K, great for weight loss and hydration.",
+    "gradient_colors": ["0xFF388E3C", "0xFFAED581"],
+    "nutrition": { "calories": 15, "carbs": 2.9, "fiber": 1.3, "protein": 1.4 }
+  },
+  {
+    "name": "Pumpkin",
+    "tagline": "Autumn’s Nutrient Gem",
+    "description": "A vitamin A-rich vegetable supporting vision and immunity with natural sweetness.",
+    "gradient_colors": ["0xFFFF9800", "0xFFFFB74D"],
+    "nutrition": { "calories": 26, "carbs": 6.5, "fiber": 0.5, "protein": 1 }
+  },
+  {
+    "name": "Beetroot",
+    "tagline": "The Heart Tonic",
+    "description": "A deep-red root vegetable packed with iron, folate, and heart-protective nitrates.",
+    "gradient_colors": ["0xFF880E4F", "0xFFD81B60"],
+    "nutrition": { "calories": 43, "carbs": 9.6, "fiber": 2.8, "protein": 1.6 }
+  },
+  {
+    "name": "Sweet Corn",
+    "tagline": "Naturally Sweet and Nutritious",
+    "description": "A starchy vegetable with fiber, antioxidants, and energy-boosting carbs.",
+    "gradient_colors": ["0xFFFFEB3B", "0xFFFFC107"],
+    "nutrition": { "calories": 86, "carbs": 19, "fiber": 2.7, "protein": 3.2 }
+  },
+  {
+    "name": "Zucchini",
+    "tagline": "Light and Nutritious",
+    "description": "A low-calorie vegetable with vitamins A and C, great for digestion and hydration.",
+    "gradient_colors": ["0xFF76C276", "0xFFA8E6A8"],
+    "nutrition": { "calories": 17, "carbs": 3.1, "fiber": 1, "protein": 1.2 }
+  },
+  {
+    "name": "Radish",
+    "tagline": "Crunchy Detoxifier",
+    "description": "A crisp root vegetable aiding digestion and detoxification with high vitamin C content.",
+    "gradient_colors": ["0xFFE91E63", "0xFFF8BBD0"],
+    "nutrition": { "calories": 16, "carbs": 3.4, "fiber": 1.6, "protein": 0.7 }
+  },
+  {
+    "name": "Peas",
+    "tagline": "Little Green Protein",
+    "description": "A protein-rich legume packed with fiber and vitamins, supporting muscle and gut health.",
+    "gradient_colors": ["0xFF4CAF50", "0xFFC5E1A5"],
+    "nutrition": { "calories": 81, "carbs": 14, "fiber": 5, "protein": 5 }
+  },
+  {
+    "name": "Bitter Gourd",
+    "tagline": "The Bitter Healer",
+    "description": "A unique vegetable known for lowering blood sugar levels and improving metabolism.",
+    "gradient_colors": ["0xFF2E7D32", "0xFFA5D6A7"],
+    "nutrition": { "calories": 17, "carbs": 3.7, "fiber": 2.5, "protein": 1 }
+  },
+  {
+    "name": "Mushroom",
+    "tagline": "Earthy and Nutritious",
+    "description": "A low-calorie fungi packed with vitamin D, antioxidants, and immune-boosting compounds.",
+    "gradient_colors": ["0xFFA1887F", "0xFFD7CCC8"],
+    "nutrition": { "calories": 22, "carbs": 3.3, "fiber": 1, "protein": 3.1 }
+  }
+]

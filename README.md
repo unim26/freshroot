@@ -42,8 +42,6 @@ FreshRoot is a mobile application that provides detailed information about vario
 - Categorization based on health benefits.
 - Bookmark feature to save favorite vegetables.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any questions or feedback, reach out to **aniketsagar4323@gmail.com**.

@@ -17,7 +17,7 @@ FreshRoot is a mobile application that provides detailed information about vario
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/freshroot.git
+   git clone https://github.com/unim26/freshroot.git
    ```
 2. Navigate to the project directory:
    ```sh
